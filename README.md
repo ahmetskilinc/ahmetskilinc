@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on a Movies application with Expo
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
+---
+
 <!--
 **ahmetskilinc/ahmetskilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
