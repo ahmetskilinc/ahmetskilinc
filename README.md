@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on a Movies application with Expo
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working on a PayloadCMS Plugin and other client projects
+- 🌱 I’m currently learning Next JS and NodeJS
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 
 
