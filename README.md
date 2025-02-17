@@ -34,9 +34,9 @@
   </a> 
 </p>
 <br/>
-<a href="https://github.com/ahmetskilinc/github-readme-streak-stats">
+<!-- <a href="https://github.com/ahmetskilinc/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetskilinc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
+</a> -->
 
 ## 📊 My Github Stats
 
