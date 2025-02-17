@@ -2,13 +2,11 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there,
 </h1>
 <h1 align="center">I'm Ahmet</h1>
-<h3 align="center">A freelance web developer from London.</h3>
+<h3 align="center">A web dev from London.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🧑🏻‍💻 Building [Mail0](https://github.com/nizzyabi/Mail0)
-- 🔭 I’m currently working on a PayloadCMS Plugin and other client projects
-- 🌱 I’m currently learning Next JS and NodeJS
+- 🧑🏻‍💻 Currently building [Mail0](https://github.com/nizzyabi/Mail0)
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 
 ## 🚀 Languages and Tools:
