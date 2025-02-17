@@ -6,6 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
+- 🧑🏻‍💻 Building [Mail0](https://github.com/nizzyabi/Mail0)
 - 🔭 I’m currently working on a PayloadCMS Plugin and other client projects
 - 🌱 I’m currently learning Next JS and NodeJS
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
