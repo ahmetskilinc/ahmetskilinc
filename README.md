@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🧑🏻‍💻 Currently building [Mail0](https://github.com/nizzyabi/Mail0)
+- 🧑🏻‍💻 Currently building [0.email](https://github.com/Mail-0/Mail-0)
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 
 ## 🚀 Languages and Tools:
