@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ahmet. A web dev from London
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ahmet. A swe from London
 </h2>
 
 ## 🙋‍♂️ About Me
