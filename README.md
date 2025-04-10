@@ -4,35 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🧑🏻‍💻 Currently building [0.email](https://github.com/Mail-0/Mail-0)
+- [ahmetk.dev](https://dub.sh/ahmet)
+- 🧑🏻‍💻 Currently building [0.email](https://dub.sh/zerodotemailgh)
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="mongodb" width="48" height="48"/>
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="48" height="48" />
-  </a> 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
-  </a> 
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" />
-  </a> 
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/62968818?s=200&v=4" width="48" height="48" />
-  </a> 
-</p>
-<br/>
-<!-- <a href="https://github.com/ahmetskilinc/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmet's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetskilinc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a> -->
 
 ## 📊 My Github Stats
 
