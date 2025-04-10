@@ -21,8 +21,8 @@
 ## 🤙🏼 Connect with me:
 
 <p align="left">
-  <a href = "https://www.linkedin.com/in/ahmetskilinc/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://www.instagram.com/ahmet_______k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.linkedin.com/in/ahmetskilinc/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="20px" /></a>
+  <a href="https://www.instagram.com/ahmet_______k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="20px" /></a>
 </p>
 
 ## ❤️ Views and Followers
