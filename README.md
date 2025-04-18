@@ -11,7 +11,7 @@
 ## 📊 My Github Stats
 
 <a href="https://github.com/ahmetskilinc/github-readme-stats">
-  <img alt="Ahmet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetskilinc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Ahmet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetskilinc&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&disable_animations=true&number_format=long&show=reviews&include_all_commits=true" />
 </a>
 <a href="https://github.com/ahmetskilinc/github-readme-stats">
   <img alt="Ahmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetskilinc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
