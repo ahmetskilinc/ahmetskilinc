@@ -4,8 +4,8 @@
 
 ## 🙋‍♂️ About Me
 
-- [ahmetk.dev](https://dub.sh/ahmet)
-- 🧑🏻‍💻 Currently building [0.email](https://dub.sh/zerodotemailgh)
+- [portfolio](https://dub.sh/ahmet)
+- 🧑🏻‍💻 Currently building [visit](https://dub.sh/zerodotemail) | [repo](https://dub.sh/zerodotemailgh)
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 
 ## 🤙🏼 Connect with me:
