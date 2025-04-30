@@ -24,6 +24,4 @@
 
 ## ❤️ Views and Followers
 
-<a href="https://github.com/ahmetskilinc/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
-</a>
+<img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
