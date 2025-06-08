@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 - [portfolio](https://dub.sh/ahmet)
-- 🧑🏻‍💻 Currently building [0.email](https://dub.sh/zerodotemail)/[repo](https://dub.sh/zerodotemailgh) and [oss.now](https://l.oss.now) / [repo](l.oss.now/gh)
+- 🧑🏻‍💻 Currently building [0.email](https://dub.sh/zerodotemail) / [repo](https://dub.sh/zerodotemailgh) and [oss.now](https://l.oss.now) / [repo](l.oss.now/gh)
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 
 ## 🤙🏼 Connect with me:
