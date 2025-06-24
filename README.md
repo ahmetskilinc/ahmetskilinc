@@ -10,9 +10,10 @@
 
 ## 🤙🏼 Connect with me:
 
-<a href="https://dub.sh/ahmetli"><img src="./assets/li.svg" width="30px"></a>
-<a href="https://dub.sh/ahmetig"><img src="./assets/ig.svg" width="30px"></a>
-<a href="https://dub.sh/ahmetx"><img src="./assets/x.svg" width="30px"></a>
+<div >
+  <a href="https://dub.sh/ahmetli"><img src="./assets/li.svg" width="30px"></a>
+  <a href="https://dub.sh/ahmetx"><img src="./assets/x.svg" width="30px" style="margin-left:10px;"></a>
+</div>
 
 ## 📊 My Github Stats
 
