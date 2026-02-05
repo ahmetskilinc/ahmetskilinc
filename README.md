@@ -17,9 +17,9 @@
   <a href="https://dub.sh/ahmetx"><img src="./assets/x.svg" width="30px" style="margin-left:10px;"></a>
 </div>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
-<!--<div style="display:inline-block;">
+<div style="display:inline-block;">
   <img alt="Ahmet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmetskilinc&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&disable_animations=true&number_format=long&show=reviews&include_all_commits=true&hide=contribs,issues" />
   <img alt="Ahmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetskilinc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div> -->
