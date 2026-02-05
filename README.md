@@ -1,20 +1,21 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ahmet. A swe from London
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi there, I'm Ahmet, a frontend engineer from London
 </h2>
 
 ## 🙋‍♂️ About Me
 
 - [portfolio](https://ahmet.studio)
 - 🧑🏻‍💻 Currently building
-  - 👀
+  - [gitbruv](https://github.com/ahmetskilinc/gitbruv)
+  - [email renderer](https://github.com/ahmetskilinc/email-renderer)
 - 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 - <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
 
 ## 🤙🏼 Connect with me:
 
-<div >
-  <a href="https://dub.sh/ahmetli"><img src="./assets/li.svg" width="30px"></a>
-  <a href="https://dub.sh/ahmetx"><img src="./assets/x.svg" width="30px" style="margin-left:10px;"></a>
+<div>
+  <a href="https://dub.sh/ahmetli"><img src="./assets/li.svg" width="22px"></a>
+  <a href="https://dub.sh/ahmetx"><img src="./assets/x.svg" width="22px" style="margin-left:20px;"></a>
 </div>
 
 <!-- ## 📊 My Github Stats
