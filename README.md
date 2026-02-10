@@ -5,10 +5,10 @@
 ## 🙋‍♂️ About Me
 
 - [portfolio](https://ahmet.studio)
-- 🧑🏻‍💻 Currently building
+- Currently building
   - [gitbruv](https://github.com/ahmetskilinc/gitbruv)
   - [email renderer](https://github.com/ahmetskilinc/email-renderer)
-- 📫 How to reach me: [email](mailto:ahmetskilinc@icloud.com)
+- How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 - <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
 
 ## 🤙🏼 Connect with me:
