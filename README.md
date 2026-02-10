@@ -9,7 +9,8 @@
   - [gitbruv](https://github.com/ahmetskilinc/gitbruv)
   - [email renderer](https://github.com/ahmetskilinc/email-renderer)
 - How to reach me: [email](mailto:ahmetskilinc@icloud.com)
-- <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
+
+<img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
 
 ## 🤙🏼 Connect with me:
 
