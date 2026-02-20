@@ -4,10 +4,14 @@
 
 ## 🙋‍♂️ About Me
 
-- [portfolio](https://ahmet.studio)
-- Currently building
+- [portfolio](https://ahmet.gg)
+- A few projects
+  - [payload media grid plugin](https://github.com/ahmetskilinc/payload-media-grid-plugin)
+  - [payload appointments plugin](https://github.com/ahmetskilinc/payload-appointments-plugin)
+  - [payload ecommerce template](https://github.com/ahmetskilinc/payload-ecommerce) 
   - [gitbruv](https://github.com/ahmetskilinc/gitbruv)
   - [email renderer](https://github.com/ahmetskilinc/email-renderer)
+  - [cayo perico calculator](https://github.com/ahmetskilinc/gta-cayo-calculator)
 - How to reach me: [email](mailto:ahmetskilinc@icloud.com)
 
 <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
