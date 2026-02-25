@@ -13,7 +13,7 @@
   - [email renderer](https://github.com/ahmetskilinc/email-renderer)
   - [cayo perico calculator](https://github.com/ahmetskilinc/gta-cayo-calculator)
   - [env cli tool](https://github.com/ahmetskilinc/db-env-cli-tool)
-  - [postgres db macOS app](https://github.com/ahmetskilinc/postgres-db-app)
+  - [postgres db macOS app](https://github.com/ahmetskilinc/table)
 - Reach me by [email](mailto:ahmetskilinc@icloud.com)
 
 <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
