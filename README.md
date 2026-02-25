@@ -14,7 +14,7 @@
   - [cayo perico calculator](https://github.com/ahmetskilinc/gta-cayo-calculator)
   - [env cli tool](https://github.com/ahmetskilinc/db-env-cli-tool)
   - [postgres db macOS app](https://github.com/ahmetskilinc/postgres-db-app)
-- Read me by [email](mailto:ahmetskilinc@icloud.com)
+- Reach me by [email](mailto:ahmetskilinc@icloud.com)
 
 <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
 
