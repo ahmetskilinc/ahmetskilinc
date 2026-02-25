@@ -12,6 +12,7 @@
   - [gitbruv](https://github.com/ahmetskilinc/gitbruv)
   - [email renderer](https://github.com/ahmetskilinc/email-renderer)
   - [cayo perico calculator](https://github.com/ahmetskilinc/gta-cayo-calculator)
+  - [postgres db macOS app](https://github.com/ahmetskilinc/postgres-db-app)
 - Read me by [email](mailto:ahmetskilinc@icloud.com)
 
 <img src="https://komarev.com/ghpvc/?username=ahmetskilinc">
